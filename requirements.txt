@@ -6,3 +6,4 @@ pandas_ta
 matplotlib
 tabulate
 colorama
+streamlit
