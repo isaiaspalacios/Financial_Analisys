@@ -1,0 +1,13 @@
+# Archivos temporales
+__pycache__/
+*.pyc
+
+# Configs de VS Code y entornos
+.vscode/
+.env/
+*.env
+
+# Excel u otros datos locales
+*.xlsx
+*.xls
+*.csv
